@@ -25,7 +25,6 @@ My name is Orlie John M. Sangalang, with a flair for coding and database managem
 
 ## Reach Me
 
-- **LinkedIn:** [LinkedIn Profile](linkedin-profile-link)
 - **Email:** orliesangalang@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
