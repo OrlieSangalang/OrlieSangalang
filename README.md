@@ -21,7 +21,7 @@ My name is Orlie John M. Sangalang, with a flair for coding and database managem
 ## Skill Sets
 
 - **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
+- **Databases:** IBM DB2 Cloud, MongoDB
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Reach Me
